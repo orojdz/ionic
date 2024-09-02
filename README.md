@@ -1,3 +1,3 @@
 # Ionic + vue
 
-Repo de práctica
+Repo de práctica y pruebas
