@@ -1,2 +1,3 @@
-# ionic
-ionic + vue
+# Ionic + vue
+
+Repo de práctica
