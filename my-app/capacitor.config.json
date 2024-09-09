@@ -1,0 +1,10 @@
+{
+  "appId": "com.oreo.app",
+  "appName": "first",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
